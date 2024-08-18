@@ -110,10 +110,10 @@ a{
 
 /* search */
 .search_input{
-    height: 25px;
-    width: calc(50% - 30px);
+    height: 30px;
     padding: 4px;
-    border-radius: 10px;
+    min-width: 300px;
+    border-radius: 5px;
     background-color: rgb(245, 243, 243);
 }
 
